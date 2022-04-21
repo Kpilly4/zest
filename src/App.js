@@ -1,11 +1,11 @@
 import './App.css';
 import React, {useState} from "react";
-import Image1 from "./assets/image1.jpeg"
-import Image2 from "./assets/image2.jpeg"
-import Image3 from "./assets/image3.jpeg"
-import Image4 from "./assets/image4.jpeg"
-import Image5 from "./assets/image5.jpeg"
-import Image6 from "./assets/image6.jpeg"
+import Image1 from "./assets/1.png"
+import Image2 from "./assets/2.png"
+import Image3 from "./assets/3.png"
+import Image4 from "./assets/4.png"
+import Image5 from "./assets/5.png"
+import Image6 from "./assets/6.png"
 
 
 const images = [Image1, Image2, Image3, Image4, Image5, Image6]
@@ -38,10 +38,10 @@ const App = () => {
         <section>
             <header>
                 <h1>
-                    Zesty
+                    RyAN
                 </h1>
                 <h2>
-                    A photography Project <br/> by KP4
+                    A CARASOUL  Project FOR RYAN  <br/> by KP4
                 </h2>
             </header>
             <figure>
